@@ -12,3 +12,5 @@ implemented, results and their analysis. We have got best results for item simil
 based collaborative filtering algorithm. We believe that content-based model would
 have worked better if we would have enough memory and computational power to
 use the whole available metadata and training dataset.
+
+Project Documentation: Recommender Project Report.pdf
