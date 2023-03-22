@@ -13,4 +13,4 @@ based collaborative filtering algorithm. We believe that content-based model wou
 have worked better if we would have enough memory and computational power to
 use the whole available metadata and training dataset.
 
-Project Documentation: Recommender Project Report.pdf
+Project Documentation: https://github.com/VarunRagul/Music-Recommendation-System/blob/4513e75dacdbb55f7ff0825dd3e6756ffacaecf3/Recommender%20Project%20Report.pdf
